@@ -7,6 +7,7 @@
 .visual.network .chain i{box-shadow:0 0 12px #b8ff5c99}
 .product-image{position:absolute;inset:0;width:100%;height:100%;object-fit:cover}
 .visual.degen-karts .product-image{object-fit:contain;background:#101626}
+.visual.interplanetary-miner .product-image{object-fit:contain;background:#10232d}
 .visual.caesar-engine .product-image{object-position:center 8%}
 .product-details{border-top:1px solid var(--line);padding:17px 22px 20px;display:flex;gap:20px;align-items:flex-start}
 .product-details>span{font:9px 'DM Mono';color:var(--green);min-width:90px}
